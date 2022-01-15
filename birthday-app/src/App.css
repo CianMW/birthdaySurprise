@@ -95,7 +95,7 @@
   min-width: 100%;
 }
 .gold-text{
-  background: linear-gradient(-45deg, hsl(14, 100%, 86%), #c7dd37, #00b6f8, #ca09b7);
+  background: linear-gradient(-45deg, #f171e0 , #71abf1, #06c71d, #d00707);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-size: 400% 400%;
